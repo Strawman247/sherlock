@@ -1,10 +1,11 @@
-<p align=center>
+s<p align=center>
   <br>
   <a href="https://sherlock-project.github.io/" target="_blank"><img src="images/sherlock-logo.png"/></a>
   <br>
   <span>Hunt down social media accounts by username across <a href="https://sherlockproject.xyz/sites">400+ social networks</a></span>
   <br>
 </p>
+clone the repo
 
 <p align="center">
   <a href="https://sherlockproject.xyz/installation">Installation</a>
@@ -124,3 +125,4 @@ Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 
 [ext_pypi]: https://pypi.org/project/sherlock-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
+PYTHON3 SHERLOCK USER123
