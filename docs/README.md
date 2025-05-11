@@ -97,7 +97,8 @@ optional arguments:
   --browse, -b          Browse to all results on default browser.
   --local, -l           Force the use of the local data.json file.
   --nsfw                Include checking of NSFW sites from default list.
-```
+```user: "sexylillexi"
+
 ## Apify Actor Usage [![Sherlock Actor](https://apify.com/actor-badge?actor=netmilk/sherlock)](https://apify.com/netmilk/sherlock?fpr=sherlock)
 
 <a href="https://apify.com/netmilk/sherlock?fpr=sherlock"><img src="https://apify.com/ext/run-on-apify.png" alt="Run Sherlock Actor on Apify" width="176" height="39" /></a>
@@ -142,3 +143,5 @@ Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
 
 [ext_pypi]: https://pypi.org/project/sherlock-project/
 [ext_brew]: https://formulae.brew.sh/formula/sherlock
+USERNAME (lovelylexibear)
+--nsfw
